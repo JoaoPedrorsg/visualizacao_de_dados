@@ -24,9 +24,9 @@ Foram gerados diversos gráficos para análise estatística e visual:
 └── multiplos_graficos.png
 </code></pre>
 
-![Gráfico Introdução](intro_visualizacao/ht_salaraio.png)
+![Image](https://github.com/user-attachments/assets/80292494-3553-473a-bba2-0e01ce4f35ae)
 ![Image](https://github.com/user-attachments/assets/5e96e15d-bb81-48f8-8bac-c0085afe4557))
-![Múltiplos Gráficos](intro_visualizacao/multiplos_graficos.png)
+![Image](https://github.com/user-attachments/assets/2a7b490e-6b7b-4a02-bcb1-8dee8ad512d6)
 
 <pre><code>📂 matplotlib
 ├── uso_matplotlib.py
