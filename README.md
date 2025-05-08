@@ -36,10 +36,10 @@ Foram gerados diversos gráficos para análise estatística e visual:
 └── dp_idade_salario.png
 </code></pre>
 
-![Image](https://github.com/user-attachments/assets/0ad08e7d-7402-47e6-81d8-5ec9d2f67559)
-![Image](https://github.com/user-attachments/assets/8a0f58eb-54cf-4c7c-ae7e-bf317e9e175e)
-![Image](https://github.com/user-attachments/assets/9e0b0c1d-d151-4353-a67c-f1ba52bad20d)
-![Image](https://github.com/user-attachments/assets/164c93df-67c4-4e45-91eb-959cd6e25ca3)
+![div_escolaridade](https://github.com/user-attachments/assets/0ad08e7d-7402-47e6-81d8-5ec9d2f67559)
+![div_escolaridade_2](https://github.com/user-attachments/assets/8a0f58eb-54cf-4c7c-ae7e-bf317e9e175e)
+![div_escolaridade_pizza](https://github.com/user-attachments/assets/9e0b0c1d-d151-4353-a67c-f1ba52bad20d)
+![dp_idade_salario](https://github.com/user-attachments/assets/164c93df-67c4-4e45-91eb-959cd6e25ca3)
 
 <pre><code>📂 seaborn
 ├── uso_seaborn.py
@@ -50,11 +50,11 @@ Foram gerados diversos gráficos para análise estatística e visual:
 └── countplot.png
 </code></pre>
 
-![Image](https://github.com/user-attachments/assets/ae027ee0-bc71-4e71-9541-d25a0bd2ccec)
-![Image](https://github.com/user-attachments/assets/fe8c7481-2f7e-49ad-acca-6784e11e807e)
-![Image](https://github.com/user-attachments/assets/6f37ff4a-5962-4965-9dea-610893b04dd8)
-![Image](https://github.com/user-attachments/assets/1159189c-44f8-4312-b04c-ff0ccb2c992c)
-![Image](https://github.com/user-attachments/assets/a6ae6696-3f1a-4d39-85b0-eed4092827cb)
+![disper_idade_salario](https://github.com/user-attachments/assets/ae027ee0-bc71-4e71-9541-d25a0bd2ccec)
+![densi_salario](https://github.com/user-attachments/assets/fe8c7481-2f7e-49ad-acca-6784e11e807e)
+![pairplot](https://github.com/user-attachments/assets/6f37ff4a-5962-4965-9dea-610893b04dd8)
+![regr_salario_idade](https://github.com/user-attachments/assets/1159189c-44f8-4312-b04c-ff0ccb2c992c)
+![countplot](https://github.com/user-attachments/assets/a6ae6696-3f1a-4d39-85b0-eed4092827cb)
 
 <pre><code>📂 exemplos
 ├── exemplos_graficos.py
@@ -63,9 +63,9 @@ Foram gerados diversos gráficos para análise estatística e visual:
 └── countplot_legenda.png
 </code></pre>
 
-![Image](https://github.com/user-attachments/assets/00d85b24-12d8-45a0-8391-a0a46ec18379)
-![Image](https://github.com/user-attachments/assets/7441755a-f470-4754-b732-e4e42581fa7d)
-![Image](https://github.com/user-attachments/assets/ddf830d5-c9d5-46e7-a49d-28d077cf2d84)
+![hotmap](https://github.com/user-attachments/assets/00d85b24-12d8-45a0-8391-a0a46ec18379)
+![countplot](https://github.com/user-attachments/assets/7441755a-f470-4754-b732-e4e42581fa7d)
+![Icountplot_legenda](https://github.com/user-attachments/assets/ddf830d5-c9d5-46e7-a49d-28d077cf2d84)
 
 ---
 
