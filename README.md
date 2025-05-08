@@ -25,7 +25,7 @@ Foram gerados diversos gráficos para análise estatística e visual:
 </code></pre>
 
 ![Gráfico Introdução](intro_visualizacao/ht_salaraio.png)
-![Distribuição Salarial](![Image](https://github.com/user-attachments/assets/5e96e15d-bb81-48f8-8bac-c0085afe4557))
+![Image](https://github.com/user-attachments/assets/5e96e15d-bb81-48f8-8bac-c0085afe4557))
 ![Múltiplos Gráficos](intro_visualizacao/multiplos_graficos.png)
 
 <pre><code>📂 matplotlib
